@@ -53,6 +53,11 @@ streamlit run XGBoost_App.py
 
 The app will open in your browser. Enter crop, state, season, year, and environmental parameters to get yield predictions.
 
+#### Crop Yield Prediction App Screenshot
+
+![Crop Yield Prediction App Screenshot](App_Screenshot.png)
+
+
 ---
 
 ## Notes
