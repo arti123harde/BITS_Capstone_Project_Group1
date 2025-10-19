@@ -59,8 +59,3 @@ The app will open in your browser. Enter crop, state, season, year, and environm
 - All data files should be in the same folder as the scripts for seamless execution.
 - The app uses the trained XGBoost pipeline (`best_model_XGBoost.pkl`).
 - For more details, see the notebook for step-by-step analysis and modeling.
-
----
-
-## Authors
-- Group 1, BITS AI/ML Capstone Project
